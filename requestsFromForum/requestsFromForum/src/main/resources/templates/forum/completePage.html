@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Complete!!</title>
+</head>
+<body>
+    <h1>Complete!</h1>
+    <p th:text="${clients.getFirstName()}">First name</p>
+    <br/>
+    <p th:text="${clients.getLastName()}">Last Name</p>
+    <br/>
+    <p th:text="${clients.getMail()}">Mail</p>
+    <br/>
+    <button type="submit">Enter loh</button>
+    <h2>Email sent successfully!</h2>
+</body>
+</html>

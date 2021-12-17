@@ -1,0 +1,5 @@
+com\example\requestsFromForum\service\EmailSenderService$1.class
+com\example\requestsFromForum\controller\ForumController.class
+com\example\requestsFromForum\dto\ClientDTO.class
+com\example\requestsFromForum\service\EmailSenderService.class
+com\example\requestsFromForum\RequestsFromForumApplication.class
